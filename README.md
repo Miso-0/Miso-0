@@ -1,7 +1,7 @@
 Hi 👋 My name is Miso Menze
 ===========================
 
-Full-Stack Android, IOS And web Developer
+Full-Stack developer
 -----------------------------------------
 
 I’m a Computer Science and Informatics major at the University of Johannesburg by day and a Full-stack Android & IOS Apps Developer by nigh. My goal is to combine creative thinking and design with analytical approach to solve problems at the intersection of business and technology. I am experienced in various technologies including Flutter, Asp.net And Native Android Development
