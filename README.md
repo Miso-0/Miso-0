@@ -5,7 +5,13 @@ very funny hahaha!!
 Full-Stack developer
 -----------------------------------------
 
-I’m a Computer Science and Informatics major at the University of Johannesburg by day and a Full-stack Android & IOS Apps Developer by nigh. My goal is to combine creative thinking and design with analytical approach to solve problems at the intersection of business and technology. I am experienced in various technologies including Flutter, Asp.net And Native Android Development
+Welcome to my Github repository! I'm glad you're here. This repository showcases my work as a Software Engineer. Whether you're here to view my portfolio, learn more about a particular project, or just explore my work, I'm excited to share my creations with you.
+
+Here you'll find a collection of projects that demonstrate my skills in software engineering. Each project includes a detailed description, a demo, and the source code for you to use as reference.
+
+Feel free to reach out if you have any questions or comments about my work. I'm always looking for new opportunities to collaborate and build amazing things, so don't hesitate to get in touch!
+
+Thank you for visiting my Github repository, and I hope you enjoy exploring my projects as much as I enjoyed creating them!
 
 * 🌍  I'm based in Johannesburg, South Africa
 * 🖥️  See my portfolio at [Miso Menze](https://dev-miso.web.app/)
