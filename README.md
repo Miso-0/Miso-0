@@ -1,5 +1,4 @@
-Hi 👋 My name is [Flutter](https://flutter.dev/), Ohh sorry Miso Menze!!
-very funny hahaha!!
+Hi 👋 My name is Miso Menze!!
 ===========================
 
 Full-Stack developer
