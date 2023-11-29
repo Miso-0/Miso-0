@@ -1,4 +1,4 @@
-Hi 👋 My name is Miso Menze!!
+Miso Menze
 ===========================
 
 Full-Stack developer
@@ -15,7 +15,6 @@ Thank you for visiting my Github repository, and I hope you enjoy exploring my p
 * 🌍  I'm based in Johannesburg, South Africa
 * 🖥️  See my portfolio at [Miso Menze](https://dev-miso.web.app/)
 * ✉️  You can contact me at [misomenze6@gmail.com](mailto:misomenze6@gmail.com)
-* 🧠  I'm learning Azure cloud technologies
 * 🤝  I'm open to collaborating on Flutter projects
 * ⚡  I was born in Wakanda :) but don't tell anyone..
 
