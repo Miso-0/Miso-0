@@ -12,7 +12,8 @@ I'm a freelance software engineer, Cape Town, South Africa.
 ### Open Source Projects
 
 [![Flutter ozow](https://github-readme-stats.vercel.app/api/pin/?username=Miso-0&repo=flutter_ozow)](https://github.com/Miso-0/flutter_ozow)
-[![Flutter yoco](https://github-readme-stats.vercel.app/api/pin/?username=Miso-0&repo=flutter_ozow)](https://github.com/Miso-0/flutter_yoco)
+[![Flutter yoco](https://github-readme-stats.vercel.app/api/pin/?username=Miso-0&repo=flutter_yoco)](https://github.com/Miso-0/flutter_yoco)
+[![Flutter google place search](https://github-readme-stats.vercel.app/api/pin/?username=Miso-0&repo=flutter_google_place_search)](https://github.com/Miso-0/flutter_google_place_search)
 
 ### Github Stats
 
