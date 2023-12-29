@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a freelance software engineer, Cape Town, South Africa.
+I'm a software engineer, Cape Town, South Africa.
 
 - 🎓 I have a Computer science degree from the University of Johannesburg 
 - 🧱 I’m currently working on [Torusforms](https://torusforms.com)
