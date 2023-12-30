@@ -2,7 +2,8 @@
 
 I'm a software engineer, Cape Town, South Africa.
 
-- 🎓 I have a Computer science degree from the University of Johannesburg 
+- 🎓 I have a Computer science degree from the University of Johannesburg
+- 👨‍💻 I love flutter, Java & Spring boot, C#, Typescript, PL/SQL.
 - 🧱 I’m currently working on [Torusforms](https://torusforms.com)
 - 🔭 I maintain the [Flutter ozow](https://pub.dev/packages/flutter_ozow), [Flutter yoco](https://pub.dev/packages/flutter_yoco), and [Flutter google place search](https://pub.dev/packages/flutter_google_place_search)
 - 🧑‍💻 I’m looking to collaborate on open source projects
