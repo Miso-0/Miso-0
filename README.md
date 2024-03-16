@@ -7,7 +7,6 @@ I'm a Software engineer, Cape Town, South Africa.
 - 🧱 I’m currently working on [Torusforms](https://torusforms.com)
 - 🔭 I maintain the [Flutter ozow](https://pub.dev/packages/flutter_ozow), [Flutter yoco](https://pub.dev/packages/flutter_yoco), and [Flutter google place search](https://pub.dev/packages/flutter_google_place_search)
 - 🌐 [Miso Menze](misomenze.info)
-- 😄 Pronouns: he/him/his
 - 📧 misomenze6@gmail.com
 
 ### Open Source Projects
