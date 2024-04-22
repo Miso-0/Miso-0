@@ -14,4 +14,4 @@ I'm a Software engineer, Cape Town, South Africa.
 [![Flutter ozow](https://github-readme-stats.vercel.app/api/pin/?username=Miso-0&repo=flutter_ozow)](https://github.com/Miso-0/flutter_ozow)
 [![Flutter yoco](https://github-readme-stats.vercel.app/api/pin/?username=Miso-0&repo=flutter_yoco)](https://github.com/Miso-0/flutter_yoco)
 [![Flutter google place search](https://github-readme-stats.vercel.app/api/pin/?username=Miso-0&repo=flutter_google_place_search)](https://github.com/Miso-0/flutter_google_place_search)
-[![App store shots](https://github-readme-stats.vercel.app/api/pin/?username=Miso-0&repo=store-shot-studio)](https://github.com/Miso-0/flutter_highlighted_text)
+[![Flutter highlighted text](https://github-readme-stats.vercel.app/api/pin/?username=Miso-0&repo=flutter_highlighted_text)](https://github.com/Miso-0/flutter_highlighted_text)
